@@ -1,0 +1,7 @@
+1. goto directory where files have been saved.
+2. git init
+3. git add <filename>
+4. git commit -m 'message'
+5. git remote add origin git@github.com:priyanka1815/euler_project (if already exists then a message will be shown)
+6. git push -u origin master
+7. password-  rbbng
