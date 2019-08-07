@@ -1,0 +1,7 @@
+{
+  "name": "Python heroku using app.json",
+  "description": "A bare-bones python  app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "addons": []
+}
+
